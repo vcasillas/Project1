@@ -28,7 +28,9 @@ class Rextester
 
         
       double[ ]gas ={3.44, 3.40, 3.60, 3.43, 3.55, 3.60, 3.76, 3.30};
-        
+
+      double[ ]mileage ={3.44, 3.40, 3.60, 3.43, 3.55, 3.60, 3.76, 3.30};
+
         
       double [] gasb = new double[gas.length];
       int j = 0;
